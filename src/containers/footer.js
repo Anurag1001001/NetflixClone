@@ -1,8 +1,10 @@
-import React from 'react';
-import { Footer } from '../components';
+import React from "react";
+import { Footer } from "../components";
 
 export function FooterContainer() {
   return (
+    // whatever passed b/w <Footer></Footer> component basically is a children.
+    // now go to component/footer/index.js component(footer component) and pass these children inside Footer(functional component) component and maine hr ek function whatever used here define kr rkha h whan pe(like Footer.Row, Footer.Beak) and try to understand the flow of function calling and all.
     <Footer>
       <Footer.Title>Questions? Contact us.</Footer.Title>
       <Footer.Break />
