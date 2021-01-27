@@ -7,10 +7,11 @@ import logo from "../logo.svg";
 export function HeaderContainer({ children }) {
   return (
     <Header>
-      <header.Frame>
+      <Header.Frame>
         <Header.Logo to={ROUTES.HOME} src={logo} alt="Netflix" />
         <Header.ButtonLink to={ROUTES.SIGN_IN}>Sign In</Header.ButtonLink>
-      </header.Frame>
+      </Header.Frame>
+      {children}
     </Header>
   );
 }
