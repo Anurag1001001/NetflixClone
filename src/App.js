@@ -6,10 +6,6 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import { Home, Signup, Signin, Browse } from "./pages";
 import * as ROUTES from "./constants/routes";
 
-// import { JumbotronContainer } from "./containers/jumbotron";
-// import { FooterContainer } from "./containers/footer";
-// import { FaqsContainer } from "./containers/faqs";
-
 export default function App() {
   return (
     <Router>
@@ -21,13 +17,4 @@ export default function App() {
       </Route>
     </Router>
   );
-}
-
-{
-  /* <>
-      <JumbotronContainer />
-      <FaqsContainer />
-
-      <FooterContainer />
-    </> */
 }
