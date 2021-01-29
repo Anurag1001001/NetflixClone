@@ -4,5 +4,6 @@ import Accordion from "./accordion";
 import OptForm from "./opt-form";
 import Header from "./header";
 import Feature from "./feature";
+import Form from "./form";
 
-export { Jumbotron, Footer, Accordion, OptForm, Header, Feature };
+export { Jumbotron, Footer, Accordion, OptForm, Header, Feature, Form };
