@@ -42,6 +42,7 @@ export default function Signin() {
         <Form>
           <Form.Title>Sign In</Form.Title>
           {error && <Form.Error data-testid="error">{error}</Form.Error>}
+          {/* onChange : ideally hum phle e.preventDefault krte the then jo v change ho usse store krte the, here jis tariqe se kra h wo shortest way h hum default event ko prevent krne ki v need nhi h ye khud hi kr deta h */}
 
           <Form.Base onSubmit={handleSignin} method="POST">
             <Form.Input
