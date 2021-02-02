@@ -19,10 +19,16 @@ export default function BrowseContainer({ slides }) {
 
   return profile.displayName ? (
     <>
-      {loading ? <Loading src={user.photoUrl} /> : <Loading.ReleaseBody />}
-
+      {loading ? <Loading src={user.photoURL} /> : <Loading.ReleaseBody />}
       <Header src="joker1">
-        <p>Hello</p>
+        <Header.Feature>
+          <Header.FeatureCallOut>Watch Joker Now</Header.FeatureCallOut>
+          <Header.Text>
+            <p>
+              fkjvbdkjfgbhsdbhskdjbnsdkfnbkadfvbkajdfhgvbkjadfhvkadvbkjadfvadbasdvabnsdf
+            </p>
+          </Header.Text>
+        </Header.Feature>
       </Header>
     </>
   ) : (

@@ -6,6 +6,7 @@ import Header from "./header";
 import Feature from "./feature";
 import Form from "./form";
 import Profiles from "./profiles";
+import Loading from "./loading";
 
 export {
   Jumbotron,
@@ -16,4 +17,5 @@ export {
   Header,
   Feature,
   Form,
+  Loading,
 };
