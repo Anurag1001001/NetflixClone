@@ -5,5 +5,15 @@ import OptForm from "./opt-form";
 import Header from "./header";
 import Feature from "./feature";
 import Form from "./form";
+import Profiles from "./profiles";
 
-export { Jumbotron, Footer, Accordion, OptForm, Header, Feature, Form };
+export {
+  Jumbotron,
+  Profiles,
+  Footer,
+  Accordion,
+  OptForm,
+  Header,
+  Feature,
+  Form,
+};
