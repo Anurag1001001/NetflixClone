@@ -1,3 +1,12 @@
+# Netflix Clone(Video Link): https://cutt.ly/WjPbRoN
+
+A Netflix clone using JavaScript, React, React Hooks,Styled Components.
+In this React Project, I build a Netflix clone! This React project has multiple pages: Home, Browse (which uses Firebase authentication), sign in, and sign up. The sign in will connect to Firebase when a user tries to sign in, and when a user signs up, i have used Firebase auth to store the user in the Firebase auth database. I build this app using React and uses Styled Components for all the styling i implemented. I also used Fuse.js for live search, and of course i used React router for navigation!
+
+## Tools ans libraries used
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width=200><img src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" width=125><img src="https://img-a.udemycdn.com/course/750x422/1934362_ca3c.jpg" width=200><img src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" width=200><img src="https://ourcodeworld.com/public-media/articles/articleocw-562bb367bbee4.png" width=200>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
