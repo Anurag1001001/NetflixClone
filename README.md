@@ -1,11 +1,128 @@
-# Netflix Clone(Video Link): https://cutt.ly/WjPbRoN
+# Netflix Clone(Video Link): https://cutt.ly/TkgfbnK
 
 A Netflix clone using JavaScript, React, React Hooks,Styled Components.
 In this React Project, I build a Netflix clone! This React project has multiple pages: Home, Browse (which uses Firebase authentication), sign in, and sign up. The sign in will connect to Firebase when a user tries to sign in, and when a user signs up, i have used Firebase auth to store the user in the Firebase auth database. I build this app using React and uses Styled Components for all the styling i implemented. I also used Fuse.js for live search, and of course i used React router for navigation!
 
 ## Tools ans libraries used
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width=200><img src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" width=125><img src="https://img-a.udemycdn.com/course/750x422/1934362_ca3c.jpg" width=200><img src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" width=200><img src="https://ourcodeworld.com/public-media/articles/articleocw-562bb367bbee4.png" width=200>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width=200><img src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" width=125><img src='https://miro.medium.com/max/2880/1*xcDT-neKHP7E3quS9n30gw.png' width=125><img src='https://www.styled-components.com/atom.png' width=125><img src='https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png'  width=125>
+
+1. React
+2. Redux
+3. React Hooks
+4. Styled-Components
+5. Firebase
+6. Fuse.js
+
+## Features and Screenshots
+
+### 1. Home Page
+
+<img src="" width=500>
+
+### 1.1. Jumbotron
+
+<img src="" width=500>
+
+### 1.2. Accordion
+
+<img src="" width=500>
+
+### 1.3. Footer
+
+<img src="" width=500>
+
+### 2. Login Component
+
+<img src="" width=500>
+
+### 3. SignUp Component
+
+<img src="" width=500>
+
+### 4. Browse
+
+<img src="" width=500>
+
+### 4.1. Browse
+
+<img src="" width=500>
+
+### 4.2 Browse
+
+<img src="" width=500>
+
+### 5. Movie and Series
+
+<img src="" width=500>
+
+## File Structure
+
+```
+├───components
+│       accordion
+│       card
+│       feature
+│       footer
+│       form
+│       header
+│       jumbotron
+│       loading
+│       opt-form
+│       player
+│       profile
+│       index.js
+│
+├───constants
+│       routes.js
+│
+├───containers
+│       browse.js
+│       faq.js
+│       footer.js
+│       header.js
+│       jumbotron.js
+│       profile.js
+│
+├───context
+│       firebase.js
+│
+├───fixtures
+│       faqs.js
+│       jumbo.json
+├───helpers
+│       routes.js
+│
+├───hooks
+│       use-auth-listener.js
+│       use-content.js
+├───images
+│       1.PNG
+│       2.PNG
+│       3.PNG
+│       4.PNG
+│       5.PNG
+│       6.PNG
+│       7.PNG
+│
+├───lib
+│       firebase.prod.js
+│
+├───pages
+│       browse.js
+│       home.js
+│       index.js
+│       signin.js
+│       signup.js
+│
+├───utils
+│       index.js
+│       selection-filter.js
+│
+├───app.js
+│
+└───index.js
+```
 
 # Getting Started with Create React App
 
