@@ -7,6 +7,8 @@ import Feature from "./feature";
 import Form from "./form";
 import Profiles from "./profiles";
 import Loading from "./loading";
+import Card from "./card";
+import Player from "./player";
 
 export {
   Jumbotron,
@@ -18,4 +20,6 @@ export {
   Feature,
   Form,
   Loading,
+  Card,
+  Player,
 };
