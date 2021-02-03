@@ -18,43 +18,39 @@ In this React Project, I build a Netflix clone! This React project has multiple 
 
 ### 1. Home Page
 
-<img src="" width=500>
+<img src="https://github.com/Anurag1001001/NetflixClone/blob/master/src/images/Home/1.PNG" width=500>
 
 ### 1.1. Jumbotron
 
-<img src="" width=500>
+<img src="https://github.com/Anurag1001001/NetflixClone/blob/master/src/images/Home/2.PNG" width=500>
 
 ### 1.2. Accordion
 
-<img src="" width=500>
+<img src="https://github.com/Anurag1001001/NetflixClone/blob/master/src/images/Home/3.PNG" width=500>
 
 ### 1.3. Footer
 
-<img src="" width=500>
+<img src="https://github.com/Anurag1001001/NetflixClone/blob/master/src/images/footer.PNG" width=500>
 
 ### 2. Login Component
 
-<img src="" width=500>
+<img src="https://github.com/Anurag1001001/NetflixClone/blob/master/src/images/signin.PNG" width=500>
 
 ### 3. SignUp Component
 
-<img src="" width=500>
+<img src="https://github.com/Anurag1001001/NetflixClone/blob/master/src/images/signup.PNG" width=500>
 
 ### 4. Browse
 
-<img src="" width=500>
+<img src="https://github.com/Anurag1001001/NetflixClone/blob/master/src/images/browse.PNG" width=500>
 
 ### 4.1. Browse
 
-<img src="" width=500>
-
-### 4.2 Browse
-
-<img src="" width=500>
+<img src="https://github.com/Anurag1001001/NetflixClone/blob/master/src/images/browse1.PNG" width=500>
 
 ### 5. Movie and Series
 
-<img src="" width=500>
+<img src="https://github.com/Anurag1001001/NetflixClone/blob/master/src/images/5.PNG" width=500>
 
 ## File Structure
 
